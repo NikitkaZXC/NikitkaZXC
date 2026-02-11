@@ -52,13 +52,6 @@ Type | Skills
 ---
 
 
-## 💻 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikitkaZXC&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitkaZXC&layout=compact&theme=dracula)
-
-
----
-
 ## 👁 Profile views
 
 ![](https://komarev.com/ghpvc/?username=NikitkaZXC&style=for-the-badge&color=blueviolet)
