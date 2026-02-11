@@ -43,10 +43,9 @@ Type | Skills
 
 ## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=NikitkaZXC&show_icons=true&theme=dracula" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitkaZXC&layout=compact&theme=dracula" height="170"/>
-</p>
+| GitHub Stats | Top Languages |
+|-------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikitkaZXC&show_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitkaZXC&layout=compact&theme=dracula) |
 
 ---
 
